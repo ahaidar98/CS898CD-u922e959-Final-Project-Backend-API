@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{513D8C7A-4E83-41F9-9BCE-0D6398319D68}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BabAl-SalamWebAPI/Models/Binding/UserRegistration.cs">
+    <Files>
+      <File FileName="BabAl-SalamWebAPI/Controllers/AuthManagementController.cs" Line="131" Column="1" />
+      <File FileName="BabAl-SalamWebAPI/Models/Binding/User.cs" />
+      <File FileName="BabAl-SalamWebAPI/Startup.cs" />
+      <File FileName="BabAl-SalamWebAPI/Models/ApiDbContext.cs" />
+      <File FileName="BabAl-SalamWebAPI/appsettings.json" />
+      <File FileName="BabAl-SalamWebAPI/app.db" />
+      <File FileName="BabAl-SalamWebAPI/Models/Response/AuthResult.cs" />
+      <File FileName="BabAl-SalamWebAPI/Models/Binding/UserRegistration.cs" Line="17" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BabAl-SalamWebAPI" expanded="True">
+            <Node name="BabAl-SalamWebAPI" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Binding" expanded="True">
+                  <Node name="UserRegistration.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BabAl-SalamWebAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/alia/Projects/BabAl-SalamWebAPI/BabAl-SalamWebAPI/Controllers/AuthManagementController.cs" relfile="BabAl-SalamWebAPI/Controllers/AuthManagementController.cs" line="128" column="1" />
+      <Breakpoint file="/Users/alia/Projects/BabAl-SalamWebAPI/BabAl-SalamWebAPI/Controllers/AuthManagementController.cs" relfile="BabAl-SalamWebAPI/Controllers/AuthManagementController.cs" line="49" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
