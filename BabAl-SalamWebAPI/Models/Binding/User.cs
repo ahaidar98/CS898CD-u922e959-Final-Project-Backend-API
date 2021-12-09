@@ -11,6 +11,9 @@ namespace BabAl_SalamWebAPI.Models
         public string LastName { get; set; }
         public string Role { get; set; }
         public string Id { get; internal set; }
+        public bool Status { set; get; }
+        public bool IsActive { set; get; }
+        public string Location { set; get; }
     }
 
     public class UserDTO
@@ -21,5 +24,8 @@ namespace BabAl_SalamWebAPI.Models
         public string LastName { get; set; }
         public string Role { get; set; }
         public string Id { get; internal set; }
+        public bool Status { set; get; }
+        public bool IsActive { set; get; }
+        public string Location { set; get; }
     }
 }

@@ -3,14 +3,16 @@ using System;
 using BabAl_SalamWebAPI.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace BabAl_SalamWebAPI.Migrations
 {
     [DbContext(typeof(ApiDbContext))]
-    partial class ProjectContextModelSnapshot : ModelSnapshot
+    [Migration("20211206064103_InitialCreatesshj")]
+    partial class InitialCreatesshj
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

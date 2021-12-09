@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/alia/.dotnet/store/|arch|/|tfm|",
-      "/Users/alia/.nuget/packages"
+      "/Users/aliahaidar/.dotnet/store/|arch|/|tfm|",
+      "/Users/aliahaidar/.nuget/packages"
     ]
   }
 }

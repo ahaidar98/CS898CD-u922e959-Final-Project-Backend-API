@@ -1,24 +1,34 @@
 ﻿<Properties StartupConfiguration="{513D8C7A-4E83-41F9-9BCE-0D6398319D68}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BabAl-SalamWebAPI/Models/Binding/UserRegistration.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BabAl-SalamWebAPI/Controllers/UserController.cs">
     <Files>
-      <File FileName="BabAl-SalamWebAPI/Controllers/AuthManagementController.cs" Line="131" Column="1" />
+      <File FileName="BabAl-SalamWebAPI/Models/UserInformation.cs" Line="16" Column="2" />
       <File FileName="BabAl-SalamWebAPI/Models/Binding/User.cs" />
-      <File FileName="BabAl-SalamWebAPI/Startup.cs" />
+      <File FileName="BabAl-SalamWebAPI/Controllers/AuthManagementController.cs" />
+      <File FileName="BabAl-SalamWebAPI/Controllers/UserController.cs" Line="77" Column="33" />
+      <File FileName="BabAl-SalamWebAPI/Controllers/ProjectsController.cs" Line="104" Column="22" />
       <File FileName="BabAl-SalamWebAPI/Models/ApiDbContext.cs" />
+      <File FileName="BabAl-SalamWebAPI/Migrations/20210924021832_intial migration.cs" />
+      <File FileName="BabAl-SalamWebAPI/Startup.cs" />
+      <File FileName="BabAl-SalamWebAPI/Program.cs" />
       <File FileName="BabAl-SalamWebAPI/appsettings.json" />
-      <File FileName="BabAl-SalamWebAPI/app.db" />
-      <File FileName="BabAl-SalamWebAPI/Models/Response/AuthResult.cs" />
-      <File FileName="BabAl-SalamWebAPI/Models/Binding/UserRegistration.cs" Line="17" Column="9" />
+      <File FileName="BabAl-SalamWebAPI/Models/Binding/Project.cs" />
+      <File FileName="BabAl-SalamWebAPI/Models/Binding/UserRegistration.cs" />
+      <File FileName="BabAl-SalamWebAPI/Models/Response/ResponseResult.cs" Line="11" Column="1" />
+      <File FileName="BabAl-SalamWebAPI/Models/ProjectInformation.cs" Line="13" Column="1" />
+      <File FileName="BabAl-SalamWebAPI/Models/Response/RegistrationResponse.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BabAl-SalamWebAPI" expanded="True">
             <Node name="BabAl-SalamWebAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="UserController.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
               <Node name="Models" expanded="True">
-                <Node name="Binding" expanded="True">
-                  <Node name="UserRegistration.cs" selected="True" />
-                </Node>
+                <Node name="Binding" expanded="True" />
+                <Node name="Response" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -31,8 +41,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/alia/Projects/BabAl-SalamWebAPI/BabAl-SalamWebAPI/Controllers/AuthManagementController.cs" relfile="BabAl-SalamWebAPI/Controllers/AuthManagementController.cs" line="128" column="1" />
-      <Breakpoint file="/Users/alia/Projects/BabAl-SalamWebAPI/BabAl-SalamWebAPI/Controllers/AuthManagementController.cs" relfile="BabAl-SalamWebAPI/Controllers/AuthManagementController.cs" line="49" column="1" />
+      <Breakpoint enabled="false" file="/Users/aliahaidar/Projects/Bab-Al-Salam-BE copy/BabAl-SalamWebAPI/Controllers/AuthManagementController.cs" relfile="BabAl-SalamWebAPI/Controllers/AuthManagementController.cs" line="49" column="1" />
+      <Breakpoint file="/Users/aliahaidar/Projects/Bab-Al-Salam-BE copy/BabAl-SalamWebAPI/Controllers/UserController.cs" relfile="BabAl-SalamWebAPI/Controllers/UserController.cs" line="61" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

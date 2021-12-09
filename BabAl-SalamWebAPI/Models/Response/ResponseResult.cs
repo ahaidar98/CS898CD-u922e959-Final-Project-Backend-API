@@ -5,6 +5,6 @@ namespace BabAl_SalamWebAPI.Models
     {
         public string ResponseMessage { set; get; }
         public string MessageStanding { set; get; }
-        public ProjectDataInformation Data { set; get; }
+        public UserDataInformation Data { set; get; }
     }
 }

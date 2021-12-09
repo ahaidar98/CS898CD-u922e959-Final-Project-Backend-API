@@ -9,6 +9,7 @@ namespace BabAl_SalamWebAPI.Models
         public ApiDbContext(DbContextOptions<ApiDbContext> options)
             :base(options)
         {
+
         }
 
         public virtual DbSet<Project> Project { get; set; }
